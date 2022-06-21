@@ -1,4 +1,4 @@
-# TIG stack plus Node.js, Nginx, MongoDB and ElasticSearch (tigmenn_stack)
+# TIG stack plus MongoDB, ElasticSearch, Node.js and Nginx (tigmenn_stack)
 
 To run the app install docker engine on your machine and just type this command in your terminal:
 
